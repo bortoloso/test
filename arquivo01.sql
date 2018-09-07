@@ -1,2 +1,5 @@
-Esta versão do arquivo está obsoleta vamos alterá-la
-verificar as alterações nos demais arquivos e ajustar
+Arquivo 01
+
+Alterações de teste em andamento
+00 Alterações iniciais
+
