@@ -1,7 +1,4 @@
-arquivo 01 
-este é o arquivo principal
-e aqui tbm aqui coloquei uma alteração
+Arquivo 01
 
-Arquivo 0102
-
-aqui alterei na versão 01
+Alterações de teste em andamento
+00 Alterações iniciais
