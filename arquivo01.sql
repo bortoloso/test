@@ -1,6 +1,6 @@
 arquivo 01 
 este é o arquivo principal
-aqui coloquei uma alteração
+e aqui tbm aqui coloquei uma alteração
 
 agora mais com algumas informações
 
